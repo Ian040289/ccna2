@@ -362,7 +362,7 @@ TASK3***TASK3***TASK3***
 PRIMARY EDGE ROUTER CONFIGURATION! owned by PLDT !!!
 !@@@EDGE ROUTE CONFIG
 config t
-   hostname EDGE-51
+   hostname EDGE-51/Firewall
    enable secret pass
    service password-encryption
    no logging console
